@@ -1,0 +1,18 @@
+<html>
+  <body>
+    <h1>My favourite actor</h1>
+    <img
+          src="https://cdn.glitch.global/6ebc6264-add7-40e3-93f6-0fbd71ea2e1a/download%20nani.jpg?v=1665475144572"
+          
+        />
+    <h5>
+      Born: 24 February 1984 (age 38 years), Hyderabad
+    </h5>
+    <h5>
+      Upcoming movie: Dasara</h5>
+    <h5> Spouse: Anjana Yelavarthy (m. 2012)</h5>
+    <h5>Siblings: Deepthi Ganta</h5>
+    <h5>Children: Arjun Ghanta</h5>
+    
+  </body>
+</html>
